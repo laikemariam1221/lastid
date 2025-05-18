@@ -1,8 +1,13 @@
+
+
 Flask
+gunicorn
 flask-cors
+easyocr
 PyMuPDF
 opencv-python
 pyzbar
 numpy
-gunicorn
+
+
 
