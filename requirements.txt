@@ -1,0 +1,6 @@
+Flask
+flask-cors
+PyMuPDF
+opencv-python
+pyzbar
+numpy
